@@ -22,6 +22,7 @@ The one signal for the sound to be created when it “play” the image. We have
  
 GUI : 
 The application can only load the one given image, and it only has two buttons on the pop up window. We modified it. Therefore, the users can chose their own file to be played and the program also has an extra button, the stop “button” is for stopping the application.
+
 ![image](https://github.com/KOKIAS/CMPT-365-A2/blob/master/image.png?raw=true)
 
 The application uses the JFileChooser to allows users to chose the file what they want to play. 
